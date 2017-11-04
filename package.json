@@ -1,0 +1,19 @@
+{
+  "name": "js-test-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyahha/js-test-base.git"
+  },
+  "author": "Toshinori Sato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyahha/js-test-base/issues"
+  },
+  "homepage": "https://github.com/tyahha/js-test-base#readme"
+}
