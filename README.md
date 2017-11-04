@@ -1,0 +1,5 @@
+# 単体テストを構築するベースになるリポジトリ
+index.htmlを直接ブラウザで開いて動かすアプリ。
+input textに英語テストを入力して、convertボタンを押すとoutput textに大文字に変換された文字が入力されるだけのアプリ。
+
+テスト対象はpulic/js/convert.jsにあるconvertLowerCaseToUpperCaseがテスト対象になる。
